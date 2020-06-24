@@ -13,5 +13,4 @@ for file in glob.glob('tech/*.txt'):
     print("upload successful", counter)
     counter=counter+1
     time.sleep(0.1)
-    input()
 
